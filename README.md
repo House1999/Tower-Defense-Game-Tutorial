@@ -4,15 +4,15 @@ Tower Defense Game in Unity using Brackey's tutorial
 
 ## Functions in the game right now
 
-Map <br>
-Moving AI <br>
-Different speeds <br>
+Map \s
+Moving AI \s
+Different speeds \s
 
 ## To add
 
-Towers <br>
-Health bars <br>
-Different weapons <br>
-Economy <br>
-Winning <br>
-Levels <br>
+Towers \s
+Health bars \s
+Different weapons \s
+Economy \s
+Winning \s
+Levels
